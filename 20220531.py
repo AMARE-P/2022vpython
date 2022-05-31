@@ -1,1 +1,1 @@
-print('hellov seoul world')
+print('hello seoul world')
